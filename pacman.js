@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const width = 28;
   let score = 0;
 
-  let a = [1,2,3,4]
   const layout = [
     1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
     1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,
